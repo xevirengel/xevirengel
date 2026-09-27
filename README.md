@@ -10,12 +10,27 @@
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:xevirengel@gmail.com)
 [![](https://img.shields.io/badge/-CV-2ea44f?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white)](%5BESP%5D%20Xavier%20Rengel%20Rodes.pdf)
 ---
-
+---
 </div>
+
+Si me lo permitís, para estructurar esta presentación voy a recurrir a la clásica de "presente, pasado y futuro", no por falta de originalidad o por admiración a Charles Dickens, sino porque creo que es la mejor forma de contaros mi historia. ¡Empecemos! 👻 
+
+## De dónde vengo
+
+Que yo recuerde siempre he sido un chico tímido e introvertido. Tengo **rotacismo** (no sé pronunciar la letra **R**)
+
+## Dónde estoy
+
+cursos
+
+## Dónde quiero ir
+
+futur
+
 
 ## 🚀 Sobre mí
 
-¡Bienvenido a mi perfil de GitHub! Siempre he tenido curiosidad por entender cómo funciona el mundo, desde las dinámicas sociales hasta el comportamiento de los sistemas. Tras graduarme en **Sociología** y formarme en **Administración y Finanzas**, descubrí mi verdadera pasión en el análisis y la gestión de datos.
+Siempre he tenido curiosidad por entender cómo funciona el mundo, desde las dinámicas sociales hasta el comportamiento de los sistemas. Tras graduarme en **Sociología** y formarme en **Administración y Finanzas**, descubrí mi verdadera pasión en el análisis y la gestión de datos.
 
 Recientemente completé el **Posgrado de Fundamentos de Big Data** en la UOC obteniendo **Matrícula de Honor**, lo que me impulsó a profundizar de lleno en programación (**Python, SQL, Bash, Git**) y pipelines de análisis.
 
