@@ -5,10 +5,10 @@
 
 *Mi nombre es **Xavier Rengel Rodes** y voy a utilizar esta página para presentarme y hablaros de mí,<br>así que **¡muchas gracias por haber llegado hasta aquí!***
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/xavier-rengel-b41b41189)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/xevirengel)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/xavier-rengel-b41b41189)
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:xevirengel@gmail.com)
-
+[![](https://img.shields.io/badge/-CV-2ea44f?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white)](%5BESP%5D%20Xavier%20Rengel%20Rodes.pdf)
 ---
 
 </div>
