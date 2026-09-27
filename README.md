@@ -1,10 +1,9 @@
 
 <div align="center">
 
-# ¡Hola! Soy Xavier Rengel Rodes 👋
-### **Data Analyst | Big Data &amp; Python Enthusiast | Sociólogo**
+# ¡Bienvenidos a mi repositorio personal! 👋
 
-*De entender patrones sociales a descubrir insights en los datos*
+*Mi nombre es **Xavier Rengel Rodes** y voy a utilizar esta página para presentarme y hablaros de mí,<br>así que **¡muchas gracias por haber llegado hasta aquí!***
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/xavier-rengel-b41b41189)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/xevirengel)
