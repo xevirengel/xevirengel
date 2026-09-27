@@ -17,10 +17,14 @@ Si me lo permitís, para estructurar esta presentación voy a recurrir a la clá
 
 ## De dónde vengo
 
-Que yo recuerde siempre he sido un chico tímido e introvertido. Tengo **rotacismo** (no sé pronunciar la letra **R**)
+Que yo recuerde siempre he sido un chico tímido e introvertido. Tengo **rotacismo** (*no sé pronunciar la letra **R***), y sí, me llamo Rengel Rodes y vivo en Ripoll (*y podría seguir* 🥲). La cuestion es que, sí, quizás me cuesta un poco más socializar, pero a cambio, desde pequeño desarrollé un "mundo interior" muy rico donde incluso pensaba qué palabras decir y cuáles evitar antes de hablar, lo que acabó derivando en mi amor por la escritura (*como notaréis a medida que vayáis leyendo y el texto no termine nunca* 😅).<br><br>
+Con los años ese mundo interior empezó a sobrepensar y analizar todo aquello que me rodeaba y sucedía. No quiero extenderme en esto porque daría por mucho (*tendréis que esperar al libro* 😉), pero empecé a interesarme por la psicología y las interacciones sociales, y más adelante por la política (*era joven, no me juzgéis*). <br><br>
+Para conocer ambas caras de la moneda público/privado hice un **CFGS en Administración y Finanzas** y terminé haciendo las prácticas en la administración pública. Durante esos años aprendí mucho (*sobre todo economía y logística*), pero al terminar me quedé con ganas de más, quería seguir aprendiendo para **comprender el mundo que me rodeaba**. 🤔<br><br>
+Fué entonces cuando decidí mudar-me a Barcelona y estudiar **Sociología** en la UAB 📚. Seguramente fueron los mejores años de mi vida, y no precisamente por las fiestas y la vida universitaria (*que no*), sino porque allí pude ser yo mismo y descubrí lo mucho que me gustaba estudiar y aprender. Admito que hasta segundo año seguía rigiéndome por la ley del mínimo esfuerzo, pero a raíz de mi primera matrícula de honor en "Pensamiento sociológico contemporáneo" y de otras asignaturas como "Teoría sociológica micro" (*la más parecida a la psicología*) y las de metodología (*donde empezamos a usar la estadística* 📈) empecé a esforzarme e implicarme mucho más, lo que me hizo disfrutar incluso más esos años. <br>
+Hice mi TFG sobre 
 
 ## Dónde estoy
-
+🥲
 cursos
 
 ## Dónde quiero ir
