@@ -41,7 +41,16 @@ No voy a descubrir ahora lo catastrófica que fue la COVID. Para mi, renunciar a
 En sociología se aprende mucho sobre muchos temas, pero **no existe la profesión de sociólogo** como tal. Lo normal es que durante el grado encuentres un campo que te interese o que te especielices con un máster (*que era mi intención, y quizás un doctorado*), pero ese no fue mi caso, así que me encontraba sin motivación y viviendo en una ciudad de 12.000 habitantes del prepirineo que, siendo sinceros, muchas ofertas interesantes para un sociólogo tampoco hay. <br><br>
 Llegados a ese punto me dí cuenta que si quería avanzar tenía que encontrar algo que me gustase y motivase lo suficiente como para salir del pozo en el que me encontraba. Hice una lista con todas las opciones de trabajo que me gustaban y las fuí descartando hasta quedarme con 3 o 4. La idea es que debes investigar los pasos a seguir para cada opción y luego elegir, pero cuando las tube delante pude ver que había una que eclipsaba todas las demás. <br>
 
+
+
 </details>
+
+<details>
+<summary><b>prova</b></summary>
+
+    hola hola
+ </details>
+
 
 <details>
 <summary><b>🚀 Dónde quiero ir </b></summary> 
