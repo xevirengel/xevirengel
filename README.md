@@ -37,8 +37,6 @@ Por desgracia, en mi último año de carrera aparació la COVID y tuve que cance
 
 ---
 
-</details>
-
 <h2 id="donde-estoy">📍 Dónde estoy </h2>
 
 No voy a descubrir ahora lo catastrófica que fue la COVID. Para mí, renunciar a mis planes y volver a casa, junto con la muerte de un ser querido, me llevó a una especie de **crisis existencial** que seguramente duró más de lo debido. Volví a hacer ejercicio, aproveché para leer y pintar algunos cuadros, e incluso aprendí lo básico para defenderme con el piano 🎹. De algún modo sentía que debía aprovechar el tiempo y hacer aquello que más me apeteciera en cada momento sin preocuparme demasiado por el futuro. Pero ese "*carpe diem*" no podía ser eterno, y cuando quise retomar la vida de adulto responsable, me di cuenta de que no había nada que me motivase lo suficiente como para dedicarle mi vida. <br><br>
@@ -54,15 +52,13 @@ Estuve buscando cursos acreditados sobre programación (**Python**) y bases de d
 
 
 ---
-</details>
-<details>
-<summary><h3>🚀 Dónde quiero ir </h3></summary> 
+h2 id="a-donde-quiero-ir">🚀 A dónde quiero ir </h2> 
 
 futur
 
 
 ---
-</details>
+
 
 ## 🚀 Sobre mí
 
