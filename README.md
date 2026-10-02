@@ -15,8 +15,12 @@
 
 Si me lo permitís, para estructurar esta presentación voy a recurrir a la clásica de **"presente, pasado y futuro"**, no por falta de originalidad o por admiración a Charles Dickens, sino porque creo que es la mejor forma de contaros mi historia. ¡Empecemos! 👻 
 
-<details>
-<summary><h3>📜 De dónde vengo</h3></summary>
+* [📜 De dónde vengo](#de-donde-vengo)
+* [📍 Dónde estoy](#donde-estoy)
+* [🚀 A dónde quiero ir](#a-donde-quiero-ir)
+
+<h2 id="de-donde-vengo">📜 De dónde vengo </h2>
+
 
 Que yo recuerde siempre he sido un chico tímido e introvertido. Tengo **rotacismo** (*no sé pronunciar la letra **R***) y me apellido Rengel Rodes y vivo en Ripoll (*y podría seguir* 🥲), de modo que sí, quizás me cuesta un poco más socializar que a la mayoría, pero a cambio, desde pequeño desarrollé un "mundo interior" muy rico y en primaria ya pensaba qué palabras decir y cuáles evitar antes de hablar, lo que acabó derivando en mi amor por la escritura (*como notaréis a medida que vayáis leyendo y el texto no termine nunca* 😅).<br><br>
 Con los años ese mundo interior empezó a sobrepensar y analizar todo aquello que me rodeaba y sucedía. No quiero extenderme en esto porque daría para mucho (*tendréis que esperar al libro* 😉), pero empecé a interesarme en la psicología y las interacciones sociales, y más adelante, por la política (*era joven, no me juzgéis*). <br><br>
@@ -35,9 +39,7 @@ Por desgracia, en mi último año de carrera aparació la COVID y tuve que cance
 
 </details>
 
-<details>
-
-<summary><h3> 📍 Dónde estoy </h3></summary>
+<h2 id="donde-estoy">📍 Dónde estoy </h2>
 
 No voy a descubrir ahora lo catastrófica que fue la COVID. Para mí, renunciar a mis planes y volver a casa, junto con la muerte de un ser querido, me llevó a una especie de **crisis existencial** que seguramente duró más de lo debido. Volví a hacer ejercicio, aproveché para leer y pintar algunos cuadros, e incluso aprendí lo básico para defenderme con el piano 🎹. De algún modo sentía que debía aprovechar el tiempo y hacer aquello que más me apeteciera en cada momento sin preocuparme demasiado por el futuro. Pero ese "*carpe diem*" no podía ser eterno, y cuando quise retomar la vida de adulto responsable, me di cuenta de que no había nada que me motivase lo suficiente como para dedicarle mi vida. <br><br>
 En sociología se aprende mucho sobre muchos temas, pero **no existe la profesión de sociólogo** como tal. Lo normal es que durante el grado encuentres un campo que te interese o que te especialices con un máster (*que era mi intención, y quizás un doctorado*), pero ese no fue mi caso, así que me encontraba sin motivación y viviendo en una ciudad de 12.000 habitantes del prepirineo que, siendo sinceros, muchas ofertas interesantes para un sociólogo tampoco hay. 😅 <br><br>
@@ -47,7 +49,7 @@ Siempre me ha gustado la informática (*y la tecnología en general* 🖥️). Y
 Disfruté cada momento del curso, desde el principio más teórico sobre la historia de la computación hasta tener que pelearme con cada parte de un código para que hiciera lo que yo quería. No solo sentía una gran satisfacción al resolver cada ejercicio o problema mediante la lógica, sino que cada resultado me acercaba un poco más a la información y al conocimiento que buscaba. <br>
 Y aunque todo mi esfuerzo y trabajo se vio recompensado con la **MH** del curso (👍🏻), también empecé a sentir el **efecto Dunning-Kruger** (👎🏻). Este sesgo cognitivo me gusta porque es una paradoja tan sorprendente como acertada, y es que **cuanto más sabes sobre un tema, más consciente eres de lo mucho que te falta por aprender**, y este fue mi caso. El curso me sirvió para aprender muchísimo sobre ciencia de datos, pero a la vez me di cuenta de que había empezado la casa por el tejado y que necesitaba aprender las bases antes de seguir con el Big Data. <br><br>
 
-Estuve buscando cursos acreditados sobre programación (**Python**) y bases de datos (**SQL**) por eso del credencialismo (*también llamado "titulitis"*), y di con el [Campus de Estudiantes Mouredev Pro](https://mouredev.pro/), donde también encontré cursos muy útiles sobre **Bash, Git y GitHub** (*más abajo hay información específica de los cursos*). También asistí a sus jornadas formativas sobre **Desarrollo con IA: de 0 a Producción** (*el BUEN USO de la IA es tan esencial y útil que este repositorio podría llamarse "Desarrollo con IA: de 0 a experto en Markdown y HTML"* 😂)  <br><br>
+Estuve buscando cursos acreditados sobre programación (**Python**) y bases de datos (**SQL**) por eso del credencialismo (*o "titulitis", llámalo como quieras*), y di con el [Campus de Estudiantes Mouredev Pro](https://mouredev.pro/), donde también encontré cursos muy útiles sobre **Bash, Git y GitHub** (*más abajo hay información específica de los cursos*). También asistí a sus jornadas formativas sobre **Desarrollo con IA: de 0 a Producción** (*el BUEN USO de la IA es tan esencial y útil que este repositorio podría llamarse "Desarrollo con IA: de 0 a experto en Markdown y HTML"* 😂)  <br><br>
 
 
 
