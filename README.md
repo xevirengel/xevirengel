@@ -52,7 +52,7 @@ Estuve buscando cursos acreditados sobre programación (**Python**) y bases de d
 
 
 ---
-h2 id="a-donde-quiero-ir">🚀 A dónde quiero ir </h2> 
+<h2 id="a-donde-quiero-ir">🚀 A dónde quiero ir </h2> 
 
 futur
 
