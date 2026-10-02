@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ¡Bienvenidos a mi repositorio personal! 👋
+# ¡Bienvenidos a mi repositorio personal! 👋🏻
 
 *Mi nombre es **Xavier Rengel Rodes** y voy a utilizar esta página para presentarme y hablaros de mí,<br>así que **¡muchas gracias por haber llegado hasta aquí!***
 
@@ -16,7 +16,7 @@
 Si me lo permitís, para estructurar esta presentación voy a recurrir a la clásica de **"presente, pasado y futuro"**, no por falta de originalidad o por admiración a Charles Dickens, sino porque creo que es la mejor forma de contaros mi historia. ¡Empecemos! 👻 
 
 <details>
-<summary><b>📜 De dónde vengo</b></summary>
+<summary><h3>📜 De dónde vengo</h3></summary>
 
 Que yo recuerde siempre he sido un chico tímido e introvertido. Tengo **rotacismo** (*no sé pronunciar la letra **R***) y me apellido Rengel Rodes y vivo en Ripoll (*y podría seguir* 🥲), de modo que sí, quizás me cuesta un poco más socializar que a la mayoría, pero a cambio, desde pequeño desarrollé un "mundo interior" muy rico y en primaria ya pensaba qué palabras decir y cuáles evitar antes de hablar, lo que acabó derivando en mi amor por la escritura (*como notaréis a medida que vayáis leyendo y el texto no termine nunca* 😅).<br><br>
 Con los años ese mundo interior empezó a sobrepensar y analizar todo aquello que me rodeaba y sucedía. No quiero extenderme en esto porque daría para mucho (*tendréis que esperar al libro* 😉), pero empecé a interesarme en la psicología y las interacciones sociales, y más adelante, por la política (*era joven, no me juzgéis*). <br><br>
@@ -31,32 +31,34 @@ Hice las prácticas en [Reempresa](https://reempresa.org/es/), un servicio conju
 
 Por desgracia, en mi último año de carrera aparació la COVID y tuve que cancelar todos mis planes de trabajar y vivir en Barcelona para volver a Ripoll, lo que, admito, fue un golpe bastante duro y un **punto de inflexión** importante en mi vida. 🙃
 
+---
+
 </details>
 
 <details>
 
-<summary><b> 📍 Dónde estoy </b></summary>
+<summary><h3> 📍 Dónde estoy </h3></summary>
 
 No voy a descubrir ahora lo catastrófica que fue la COVID. Para mi, renunciar a mis planes y volver a casa, junto con la muerte de un ser querido, me llevó a una especie de **crisis existencial** que seguramente duró más de lo debido. Volví a hacer ejercicio, aproveché para leer y pintar algunos cuadros, e incluso aprendí lo básico para defenderme con el piano. De algún modo sentía que debía aprovechar el tiempo y hacer aquello que más me apeteciera en cada momento sin preocuparme demasiado por el futuro. Pero ese "*carpe diem*" no podía ser eterno, y cuando quise retomar la vida de adulto responsable, me dí cuenta que no había nada que me motivase lo suficiente como para dedicarle mi vida. <br><br>
 En sociología se aprende mucho sobre muchos temas, pero **no existe la profesión de sociólogo** como tal. Lo normal es que durante el grado encuentres un campo que te interese o que te especielices con un máster (*que era mi intención, y quizás un doctorado*), pero ese no fue mi caso, así que me encontraba sin motivación y viviendo en una ciudad de 12.000 habitantes del prepirineo que, siendo sinceros, muchas ofertas interesantes para un sociólogo tampoco hay. <br><br>
-Llegados a ese punto me dí cuenta que si quería avanzar tenía que encontrar algo que me gustase y motivase lo suficiente como para salir del pozo en el que me encontraba. Hice una lista con todas las opciones de trabajo que me gustaban y las fuí descartando hasta quedarme con 3 o 4. La idea es que debes investigar los pasos a seguir para cada opción y luego elegir, pero cuando las tube delante pude ver que había una que eclipsaba todas las demás. <br>
+Llegados a ese punto me dí cuenta que si quería avanzar tenía que encontrar algo que me gustase y motivase lo suficiente como para salir del pozo en el que me encontraba. Hice una lista con todas las opciones de trabajo que me gustaban y las fuí descartando hasta quedarme con 3 o 4. La idea es que debes investigar los pasos a seguir para cada opción y luego elegir, pero cuando las tube delante pude ver que había una que eclipsaba todas las demás. <br><br>
+
+Siempre me ha gustado la informática (*y la tecnología en general* 🖥️). Y aunque hice el bachillerato social, me gustan las matemáticas y la estadística. Y si a todo esto le sumas mis ganas de investigar y descubrir cómo funciona el mundo y sus patrones, el resultado es fácil: **la Ciencia de Datos y el Big Data**. Empecé a buscar cursos y me decidí por el [Curso de Posgrado en Fundamentos de Big Data](https://www.uoc.edu/es/estudios/formacion-continua/curso-posgrado-fundamentos-big-data) en la UOC, y por primera vez en la vida sentí que esto era lo que quería hacer. <br>
+Disfruté cada momento del curso, desde el principio más teórico sobre la historia de la computación hasta tener que pelearme con cada parte de un código para que hiciera lo que yo quería. No solo sentía una gran satisfacción al resolver cada ejercicio o problema mediante la lógica, sino que cada resultado me acercaba un poco más a la información y al conocimiento que buscaba. <br>
+Y aunque todo mi esfuerzo y trabajo se vio recompensado con la **MH** del curso (👍🏻), también empecé a sentir el **efecto Dunning-Kruger** (👎🏻). Este sesgo cognitivo me gusta porque es una paradoja tan sorprendente como acertada, y es que **cuanto más sabes sobre un tema, más consciente eres de lo mucho que te falta por aprender**, y este fue mi caso. El curso me sirvió para aprender muchísimo sobre ciencia de datos, pero a la vez me di cuenta de que había empezado la casa por el tejado y que necesitaba aprender las bases antes de seguir con el Big Data. <br><br>
 
 
 
+
+---
 </details>
-
 <details>
-<summary><b>prova</b></summary>
-
-    hola hola
- </details>
-
-
-<details>
-<summary><b>🚀 Dónde quiero ir </b></summary> 
+<summary><h3>🚀 Dónde quiero ir </h3></summary> 
 
 futur
 
+
+---
 </details>
 
 ## 🚀 Sobre mí
