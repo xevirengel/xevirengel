@@ -65,7 +65,12 @@ Un día, mientras curioseaba por **LinkedIn**, vi que ofrecía una gran cantidad
 
 <h2 id="a-donde-quiero-ir">🚀 A dónde quiero ir </h2> 
 
-futur
+Este es el apartado más difícil de escribir para mí por la falta de información. Por mucho que fantasee con lo que me gustaría hacer, la realidad es que **no tengo ni idea de en qué punto o nivel me encuentro** 🤷🏻‍♂️. Y aunque estoy seguro de que si me esfuerzo lo suficiente soy capaz de lograr cualquier cosa que me proponga o se me pida, la verdad es que al ser nuevo en el sector siempre me ronda la idea de no ser lo bastante bueno o de ser un "impostor" (*otra paradoja curiosa* 😅). <br><br>
+
+Pero oye, este es mi repositorio y yo elijo qué escribir y cómo presentarme, así que a la m***** esto, ¡vamos a ser positivos! 💪🏻 <br> <br>
+
+Como yo lo veo, y simplificándolo al máximo, tengo dos posibilidades: tirar por la **programación** o por el **análisis de datos**, y aunque me gusta la lógica de la programación y el desafío de buscar el ""código perfecto"" (*con muchas comillas, quién entendió, entendió* 😂), la verdad es que la decisión es muy fácil, **me quedo con el análisis**.     
+
 
 
 ---
