@@ -1,7 +1,9 @@
 <a id="top"></a>
 <div align="center">
 
-# ¡Bienvenidos a mi repositorio personal! 👋🏻
+# ¡Bienvenidos a mi repositorio personal! 🙋🏻‍♂️
+
+---
 
 *Mi nombre es **Xavier Rengel Rodes** y voy a utilizar esta página para presentarme y hablaros de mí,<br>así que **¡muchas gracias por haber llegado hasta aquí!***
 
@@ -10,7 +12,8 @@
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:xevirengel@gmail.com)
 [![](https://img.shields.io/badge/-CV-2ea44f?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white)](%5BESP%5D%20Xavier%20Rengel%20Rodes.pdf)
 ---
----
+
+
 </div>
 
 Si me lo permitís, para estructurar esta presentación voy a recurrir a la clásica de **"presente, pasado y futuro"**, no por falta de originalidad o por admiración a Charles Dickens, sino porque creo que es la mejor forma de contaros mi historia. ¡Empecemos! 👻 
@@ -19,13 +22,15 @@ Si me lo permitís, para estructurar esta presentación voy a recurrir a la clá
 * [📍 Dónde estoy](#donde-estoy)
 * [🚀 A dónde quiero ir](#a-donde-quiero-ir)
 
+---
+---
 <h2 id="de-donde-vengo">📜 De dónde vengo </h2>
 
 
 Que yo recuerde siempre he sido un chico tímido e introvertido. Tengo **rotacismo** (*no sé pronunciar la letra **R***) y me apellido Rengel Rodes y vivo en Ripoll (*y podría seguir* 🥲), de modo que sí, quizás me cuesta un poco más socializar que a la mayoría, pero a cambio, desde pequeño desarrollé un "mundo interior" muy rico y en primaria ya pensaba qué palabras decir y cuáles evitar antes de hablar, lo que acabó derivando en mi amor por la escritura (*como notaréis a medida que vayáis leyendo y el texto no termine nunca* 😅).<br><br>
 Con los años ese mundo interior empezó a sobrepensar y analizar todo aquello que me rodeaba y sucedía. No quiero extenderme en esto porque daría para mucho (*tendréis que esperar al libro* 😉), pero empecé a interesarme en la psicología y las interacciones sociales, y más adelante, por la política (*era joven, no me juzgéis*). <br><br>
 Para conocer ambas caras de la moneda público/privado hice un **CFGS en Administración y Finanzas** y terminé haciendo las prácticas en la administración pública. Durante esos años aprendí mucho (*sobre todo economía y logística*), pero al terminar me quedé con ganas de más, quería seguir aprendiendo para **comprender el mundo que me rodeaba**. 🤔<br><br>
-Fue entonces cuando decidí mudarme a Barcelona y estudiar el [Grado en Sociología](https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/sociologia-1216708258897.html?param1=1228206208249) en la UAB 📚. Seguramente fueron los mejores años de mi vida, y no precisamente por las fiestas y la vida universitaria (*que no*), sino porque allí pude ser yo mismo y descubrí lo mucho que me gustaba estudiar y aprender. Admito que hasta segundo año seguía rigiéndome por la ley del mínimo esfuerzo, pero a raíz de mi primera MH en "Pensamiento sociológico contemporáneo" y de otras asignaturas como "Teoría sociológica micro" (*la más parecida a la psicología*) y las de metodología (*donde empezamos a usar la estadística en R* 📈) empecé a esforzarme e implicarme mucho más, lo que me hizo disfrutar incluso más de esos años. <br><br>
+Fue entonces cuando decidí mudarme a Barcelona y estudiar el [Grado en Sociología](https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/sociologia-1216708258897.html?param1=1228206208249) en la UAB 🎓. Seguramente fueron los mejores años de mi vida, y no precisamente por las fiestas y la vida universitaria (*que no*), sino porque allí pude ser yo mismo y descubrí lo mucho que me gustaba estudiar y aprender. Admito que hasta segundo año seguía rigiéndome por la ley del mínimo esfuerzo, pero a raíz de mi primera MH en "Pensamiento sociológico contemporáneo" y de otras asignaturas como "Teoría sociológica micro" (*la más parecida a la psicología*) y las de metodología (*donde empezamos a usar la estadística en R* 📈) empecé a esforzarme e implicarme mucho más, lo que me hizo disfrutar incluso más de esos años. <br><br>
 En mi TFG "[Racionalitat Limitada i “Guerres de la Racionalitat” en Ciències Socials.](TFG\_Rengel%20Rodes,%20Xavier.pdf)" (*del cual estoy muy orgulloso y obtuve MH*) aprofité para profundizar en esta faceta más psicológica e individualista, y traté sobre modelos de pensamiento y heurísticas. <br><br>
 Hice las prácticas en [Reempresa](https://reempresa.org/es/), un servicio conjunto entre Cecot y la Fundació Autoocupació, y durante el último año de carrera una de mis profesoras me propuso trabajar para ella en un [artículo científico](https://ddd.uab.cat/pub/artpub/2021/321360/socsciinf_a2021v60n3p395iENG.pdf) recogiendo y filtrando información.
 
@@ -51,7 +56,9 @@ Y aunque todo mi esfuerzo y trabajo se vio recompensado con la **MH** del curso 
 
 Estuve buscando cursos acreditados sobre programación (**Python**) y bases de datos (**SQL**) por eso del credencialismo (*o "titulitis", llámalo como quieras*), y di con el [Campus de Estudiantes Mouredev Pro](https://mouredev.pro/), donde también encontré cursos muy útiles sobre **Bash, Git y GitHub** (*más abajo hay información específica de los cursos*). También asistí a sus jornadas formativas sobre **Desarrollo con IA: de 0 a Producción** (*el BUEN USO de la IA es tan esencial y útil que este repositorio podría llamarse "Desarrollo con IA: de 0 a experto en Markdown y HTML"* 😂)  <br><br>
 
+Un día, mientras curioseaba por **LinkedIn**, vi que ofrecía una gran cantidad de cursos muy interesantes 📚, algunos de ellos respaldados por compañías como **Microsoft** u organizaciones profesionales como **Project Management Institute**, y evidentemente, hice los que me parecieron más útiles para mi futuro (*la lista e información de los cursos está más adelante*). 
 
+👇🏻 [Información detallada de los cursos](#cursos)
 
 ---
 <p align="right"><a href="#top">⬆ Volver al principio</a></p>
@@ -64,6 +71,11 @@ futur
 ---
 
 <p align="right"><a href="#top">⬆ Volver al principio</a></p>
+
+<h2 id="cursos"> Información detallada de los cursos</h2> 
+
+els cursos 
+
 
 ## 🚀 Sobre mí
 
