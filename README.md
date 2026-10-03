@@ -1,4 +1,4 @@
-
+<a id="top"></a>
 <div align="center">
 
 # ¡Bienvenidos a mi repositorio personal! 👋🏻
@@ -37,9 +37,11 @@ Por desgracia, en mi último año de carrera aparació la COVID y tuve que cance
 
 ---
 
+<p align="right"><a href="#top">⬆ Volver al principio</a></p>
+
 <h2 id="donde-estoy">📍 Dónde estoy </h2>
 
-No voy a descubrir ahora lo catastrófica que fue la COVID. Para mí, renunciar a mis planes y volver a casa, junto con la muerte de un ser querido, me llevó a una especie de **crisis existencial** que seguramente duró más de lo debido. Volví a hacer ejercicio, aproveché para leer y pintar algunos cuadros, e incluso aprendí lo básico para defenderme con el piano 🎹. De algún modo sentía que debía aprovechar el tiempo y hacer aquello que más me apeteciera en cada momento sin preocuparme demasiado por el futuro. Pero ese "*carpe diem*" no podía ser eterno, y cuando quise retomar la vida de adulto responsable, me di cuenta de que no había nada que me motivase lo suficiente como para dedicarle mi vida. <br><br>
+No voy a descubrir ahora lo catastrófica que fue la COVID. Para mí, renunciar a mis planes y volver a casa, junto con la muerte de un ser querido, me llevó a una especie de **crisis existencial** que seguramente duró más de lo debido 😕. De algún modo sentí que debía aprovechar el tiempo y hacer aquello que más me apeteciera en cada momento sin preocuparme demasiado por el futuro. Volví a hacer ejercicio, aproveché para leer y pintar algunos cuadros, e incluso aprendí lo básico para defenderme con el piano 🎹. Pero ese "*carpe diem*" no podía ser eterno, y cuando quise retomar la vida de adulto responsable, me di cuenta de que no había nada que me motivase lo suficiente como para dedicarle mi vida. <br><br>
 En sociología se aprende mucho sobre muchos temas, pero **no existe la profesión de sociólogo** como tal. Lo normal es que durante el grado encuentres un campo que te interese o que te especialices con un máster (*que era mi intención, y quizás un doctorado*), pero ese no fue mi caso, así que me encontraba sin motivación y viviendo en una ciudad de 12.000 habitantes del prepirineo que, siendo sinceros, muchas ofertas interesantes para un sociólogo tampoco hay. 😅 <br><br>
 Llegados a ese punto me di cuenta de que si quería avanzar tenía que encontrar algo que me gustase y motivase lo suficiente como para salir del pozo en el que me encontraba. Hice una lista 📝 con todas las opciones de trabajo que me gustaban y las fui descartando hasta quedarme con 3 o 4. La idea es que debes investigar los pasos a seguir para cada opción y luego elegir, pero cuando las tuve delante pude ver que había una que eclipsaba todas las demás. <br><br>
 
@@ -52,6 +54,8 @@ Estuve buscando cursos acreditados sobre programación (**Python**) y bases de d
 
 
 ---
+<p align="right"><a href="#top">⬆ Volver al principio</a></p>
+
 <h2 id="a-donde-quiero-ir">🚀 A dónde quiero ir </h2> 
 
 futur
@@ -59,6 +63,7 @@ futur
 
 ---
 
+<p align="right"><a href="#top">⬆ Volver al principio</a></p>
 
 ## 🚀 Sobre mí
 
