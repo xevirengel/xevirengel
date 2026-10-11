@@ -16,11 +16,17 @@
 
 </div>
 
-Si me lo permitís, para estructurar esta presentación voy a recurrir a la clásica de **"presente, pasado y futuro"**, no por falta de originalidad o por admiración a Charles Dickens, sino porque creo que es la mejor forma de contaros mi historia. ¡Empecemos! 👻 
+Si me lo permitís, para estructurar esta presentación voy a recurrir a la clásica de **"presente, pasado y futuro"**, no por falta de originalidad o por admiración a Charles Dickens 👻, sino porque creo que es la mejor forma de contaros mi historia. 
 
 * [📜 De dónde vengo](#de-donde-vengo)
 * [📍 Dónde estoy](#donde-estoy)
 * [🚀 A dónde quiero ir](#a-donde-quiero-ir)
+
+Y como este repositorio tambien es un complemento a mi CV, para aquellos que quieran ir directamente a mi formación (*aunque yo aconsejo leerlo todo*) os dejo aquí el enlace. 
+
+* [📚 Información detallada de los cursos](#cursos)
+
+Dicho esto, ¡empecemos! 💪🏻
 
 ---
 ---
