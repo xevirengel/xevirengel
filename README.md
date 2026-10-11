@@ -76,9 +76,29 @@ Este es el apartado más difícil de escribir para mí por la falta de informaci
 <h3 align="center"> Pero oye, que este es mi repositorio y yo elijo qué escribir y cómo presentarme, <br> 
   así que a la m***** esto, ¡vamos a ser positivos! 💪🏻</h3> <br> <br>
 
-Como yo lo veo, y simplificándolo al máximo, tengo dos opciones: tirar por la **programación** o por el **análisis de datos**, y aunque me gusta la lógica de la programación y el desafío de buscar el ""código perfecto"" (*con muchas comillas* 😂), la verdad es que la decisión es muy fácil, **me quedo con el análisis**.     
+Como yo lo veo, y simplificándolo al máximo, tengo dos opciones: tirar por la **programación** o por el **análisis de datos**, y aunque me gusta la lógica de la programación y el desafío de buscar el ""código perfecto"" (*con muchas comillas* 😂), la verdad es que la decisión es muy fácil, **me quedo con el análisis**. Y digo que es una elección fácil por tres motivos principales: 
 
-
+<table> 
+  <tbody>
+    <tr> 
+      <td width="33%" align="center"> 
+        <h3> La Investigación 🕵🏻‍♂️</h3> 
+        <hr>
+        <p> Me permite seguir investigando y descubriendo el mundo que me rodea. <br><br> </p> 
+      </td> 
+      <td width="33%" align="center"> 
+        <h3> El Orden 🗃️ </h3> 
+        <hr>
+        <p> Disfruto mucho creando y gestionando bases de datos. <br><br> </p> 
+      </td> 
+      <td width="33%" align="center"> 
+        <h3> La Limpieza 🧹</h3> 
+        <hr>
+        <p> Encuentro una gran satisfacción en la limpieza y preparación de datos. <br><br> </p> 
+      </td> 
+    </tr> 
+  </tbody>
+</table>
 
 ---
 
@@ -161,6 +181,7 @@ Recientemente completé el **Posgrado de Fundamentos de Big Data** en la UOC obt
 
 ---
 
+<table> <tbody> <tr> <td width="33%" align="center" valign="top"> <br /> <h3>1️⃣ La Investigación</h3> <hr /> <p>Me da la opción de seguir <b>investigando y descubriendo</b> el mundo que me rodea. 🕵🏻‍♂️</p> <br /> </td> <td width="33%" align="center" valign="top"> <br /> <h3>2️⃣ El Orden</h3> <hr /> <p>Disfruto mucho <b>creando y gestionando</b> bases de datos. 🗃️</p> <br /> </td> <td width="33%" align="center" valign="top"> <br /> <h3>3️⃣ La Limpieza</h3> <hr /> <p>Encuentro una gran satisfacción en la <b>limpieza y preparación</b> de datos. 🧹</p> <br /> </td> </tr> </tbody> </table>
 
 
 <p align="center">
