@@ -24,7 +24,7 @@ Si me lo permitís, para estructurar esta presentación voy a recurrir a la clá
 
 Y como este repositorio tambien es un complemento a mi CV, para aquellos que quieran ir directamente a mi formación (*aunque yo aconsejo leerlo todo*) os dejo aquí el enlace. 
 
-* [📚 Información detallada de los cursos](#cursos)
+* [🎓 Información detallada de los cursos](#cursos)
 
 Dicho esto, ¡empecemos! 💪🏻
 
@@ -76,7 +76,7 @@ Este es el apartado más difícil de escribir para mí por la falta de informaci
 <h3 align="center"> Pero oye, que este es mi repositorio y yo elijo qué escribir y cómo presentarme, <br> 
   así que a la m***** esto, ¡vamos a ser positivos! 💪🏻</h3> <br> <br>
 
-Como yo lo veo, y simplificándolo al máximo, tengo dos posibilidades: tirar por la **programación** o por el **análisis de datos**, y aunque me gusta la lógica de la programación y el desafío de buscar el ""código perfecto"" (*con muchas comillas, quién entendió, entendió* 😂), la verdad es que la decisión es muy fácil, **me quedo con el análisis**.     
+Como yo lo veo, y simplificándolo al máximo, tengo dos opciones: tirar por la **programación** o por el **análisis de datos**, y aunque me gusta la lógica de la programación y el desafío de buscar el ""código perfecto"" (*con muchas comillas* 😂), la verdad es que la decisión es muy fácil, **me quedo con el análisis**.     
 
 
 
@@ -84,7 +84,7 @@ Como yo lo veo, y simplificándolo al máximo, tengo dos posibilidades: tirar po
 
 <p align="right"><a href="#top">⬆ Volver al principio</a></p>
 
-<h2 id="cursos"> Información detallada de los cursos</h2> 
+<h2 id="cursos"> 🎓 Información detallada de los cursos</h2> 
 
 els cursos 
 
