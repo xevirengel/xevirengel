@@ -100,7 +100,7 @@ Como yo lo veo, y simplificándolo al máximo, tengo dos opciones: tirar por la 
   </tbody>
 </table>
 
-El siguiente paso sería decidir en qué campo quiero trabajar y especializarme, y aunque tengo un cierto interés por las redes sociales y por la psicología y las conductas sociales, entiendo que quizás son campos más difíciles de acceder para alguien que acaba de empezar como yo, así que de momento no tengo preferencias, **mi único objetivo es conseguir experiencia y seguir asentando las bases del oficio** 👨🏻‍🏫. 
+El siguiente paso sería decidir en qué campo quiero trabajar y especializarme, y aunque tengo un cierto interés por las redes sociales y por la psicología y las conductas sociales, entiendo que quizás son campos más difíciles de acceder para alguien que acaba de empezar como yo, así que estaré encantado de trabajar donde sea, ahora mismo **mi objetivo es conseguir experiencia y seguir asentando las bases del oficio** 👨🏻‍🏫. 
 
 ---
 
