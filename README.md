@@ -34,7 +34,7 @@ Dicho esto, ¡empecemos! 💪🏻
 
 
 Que yo recuerde siempre he sido un chico tímido e introvertido. Tengo **rotacismo** (*no sé pronunciar la letra **R***) y me apellido Rengel Rodes y vivo en Ripoll (*y podría seguir* 🥲), de modo que sí, quizás me cuesta un poco más socializar que a la mayoría, pero a cambio, desde pequeño desarrollé un "mundo interior" muy rico y en primaria ya pensaba qué palabras decir y cuáles evitar antes de hablar, lo que acabó derivando en mi amor por la escritura (*como notaréis a medida que vayáis leyendo y el texto no termine nunca* 😅).<br><br>
-Con los años ese mundo interior empezó a sobrepensar y analizar todo aquello que me rodeaba y sucedía. No quiero extenderme en esto porque daría para mucho (*tendréis que esperar al libro* 😉), pero empecé a interesarme en la psicología y las interacciones sociales, y más adelante, por la política (*era joven, no me juzgéis*). <br><br>
+Con los años ese mundo interior empezó a sobrepensar y analizar todo aquello que me rodeaba y sucedía. No quiero extenderme en esto porque daría para mucho (*tendréis que esperar al libro* 😉), pero empecé a interesarme por la psicología y las interacciones sociales (*y hablando de psicología, según el test de las 16 personalidades soy **INTP-T: Lógico** ⚙️)*, y más adelante, por la política (*era joven, no me juzgéis*). <br><br>
 Para conocer ambas caras de la moneda público/privado hice un **CFGS en Administración y Finanzas** y terminé haciendo las prácticas en la administración pública. Durante esos años aprendí mucho (*sobre todo economía y logística*), pero al terminar me quedé con ganas de más, quería seguir aprendiendo para **comprender el mundo que me rodeaba**. 🤔<br><br>
 Fue entonces cuando decidí mudarme a Barcelona y estudiar el [Grado en Sociología](https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/sociologia-1216708258897.html?param1=1228206208249) en la UAB 🎓. Seguramente fueron los mejores años de mi vida, y no precisamente por las fiestas y la vida universitaria (*que no*), sino porque allí pude ser yo mismo y descubrí lo mucho que me gustaba estudiar y aprender. Admito que hasta segundo año seguía rigiéndome por la ley del mínimo esfuerzo, pero a raíz de mi primera MH en "Pensamiento sociológico contemporáneo" y de otras asignaturas como "Teoría sociológica micro" (*la más parecida a la psicología*) y las de metodología (*donde empezamos a usar la estadística en R* 📈) empecé a esforzarme e implicarme mucho más, lo que me hizo disfrutar incluso más de esos años. <br><br>
 En mi TFG "[Racionalitat Limitada i “Guerres de la Racionalitat” en Ciències Socials.](TFG\_Rengel%20Rodes,%20Xavier.pdf)" (*del cual estoy muy orgulloso y obtuve MH*) aprofité para profundizar en esta faceta más psicológica e individualista, y traté sobre modelos de pensamiento y heurísticas. <br><br>
@@ -100,7 +100,7 @@ Como yo lo veo, y simplificándolo al máximo, tengo dos opciones: tirar por la 
   </tbody>
 </table>
 
-El siguiente paso sería decidir en qué campo quiero trabajar y especializarme, y aunque tengo un cierto interés por las redes sociales y por la psicología y las conductas sociales, entiendo que quizás son campos más difíciles de acceder para alguien que acaba de empezar como yo, así que estaré encantado de trabajar donde sea, ahora mismo **mi objetivo es conseguir experiencia y seguir asentando las bases del oficio** 👨🏻‍🏫. 
+El siguiente paso sería decidir en qué campo quiero trabajar y especializarme, y aunque tengo un cierto interés por las redes sociales y por la psicología y las conductas sociales, entiendo que quizás son campos difíciles de acceder para alguien que acaba de empezar como yo, así que estaré encantado de trabajar donde sea, ahora mismo **mi objetivo es conseguir experiencia y seguir asentando las bases del oficio** 👨🏻‍🏫. 
 
 ---
 
@@ -113,20 +113,7 @@ els cursos
 ---
 <p align="right"><a href="#top">⬆ Volver al principio</a></p>
 
-## 🚀 Sobre mí
-
-Siempre he tenido curiosidad por entender cómo funciona el mundo, desde las dinámicas sociales hasta el comportamiento de los sistemas. Tras graduarme en **Sociología** y formarme en **Administración y Finanzas**, descubrí mi verdadera pasión en el análisis y la gestión de datos.
-
-Recientemente completé el **Posgrado de Fundamentos de Big Data** en la UOC obteniendo **Matrícula de Honor**, lo que me impulsó a profundizar de lleno en programación (**Python, SQL, Bash, Git**) y pipelines de análisis.
-
-- 🎓 **Formación principal**: Posgrado en Fundamentos de Big Data (UOC) y Grado en Sociología (UAB).
-- 💡 **Filosofía personal**: *"El verdadero valor de una persona viene dado por $v = (c + h) \cdot a$ (Conocimiento + Habilidad) × Actitud"*.
 - 🧠 **Personalidad MBTI**: **INTP-T (Lógico)** — Analítico, adaptativo y enfocado en la resolución eficiente de problemas.
-- 🎯 **Objetivo**: Desarrollar mi carrera profesional en el campo del análisis de datos, Data Science e ingeniería de datos.
-
----
-
-
 
 ## 🎓 Formación y Certificaciones
 
@@ -174,19 +161,6 @@ Recientemente completé el **Posgrado de Fundamentos de Big Data** en la UOC obt
 </details>
 
 ---
-
-## 💼 Experiencia Laboral
-
-| Período | Entidad / Empresa | Rol y Responsabilidades |
-| :---: | :--- | :--- |
-| **2019 - 2020** | **Universitat Autònoma de Barcelona** | *Prácticas Académicas Externas*<br />• Recogida y análisis de información en redes sociales.<br />• Resumen sistemático de publicaciones en Twitter para investigación científica. |
-| **2019 - 2020** | **Centre de Reempresa de Catalunya** | *Prácticas Profesionales*<br />• Diseño y elaboración de encuestas sobre supervivencia empresarial.<br />• Tratamiento de datos en Excel y redacción de informe de resultados. |
-| **2015 - 2016** | **Consell Comarcal del Ripollès** | *Formación en Centros de Trabajo (FCT)*<br />• Primer contacto con bases de datos relacionales en MS Access.<br />• Actualización y gestión del sistema de becas de comedor y transporte escolar. |
-
----
-
-<table> <tbody> <tr> <td width="33%" align="center" valign="top"> <br /> <h3>1️⃣ La Investigación</h3> <hr /> <p>Me da la opción de seguir <b>investigando y descubriendo</b> el mundo que me rodea. 🕵🏻‍♂️</p> <br /> </td> <td width="33%" align="center" valign="top"> <br /> <h3>2️⃣ El Orden</h3> <hr /> <p>Disfruto mucho <b>creando y gestionando</b> bases de datos. 🗃️</p> <br /> </td> <td width="33%" align="center" valign="top"> <br /> <h3>3️⃣ La Limpieza</h3> <hr /> <p>Encuentro una gran satisfacción en la <b>limpieza y preparación</b> de datos. 🧹</p> <br /> </td> </tr> </tbody> </table>
-
 
 <p align="center">
   
