@@ -108,18 +108,43 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 
 <h2 id="cursos"> 🎓 Información detallada de los cursos</h2> 
 
-els cursos 
+<details>
+  <summary>
+    <b> previa </b>
+  </summary>  
+  <br>
+    Què tal?
+</details>
+
+<details>
+  <summary>
+    <b> big data </b>
+  </summary>  
+  <br>
+    Què tal?
+</details>
+
+<details>
+  <summary>
+    <b> mouredev </b>
+  </summary>  
+  <br>
+    Què tal?
+</details>
+
+<details>
+  <summary>
+    <b> linkedin </b>
+  </summary>  
+  <br>
+    Què tal?
+</details>
 
 ---
+
 <p align="right"><a href="#top">⬆ Volver al principio</a></p>
 
-- 🧠 **Personalidad MBTI**: **INTP-T (Lógico)** — Analítico, adaptativo y enfocado en la resolución eficiente de problemas.
 
-## 🎓 Formación y Certificaciones
-
-### 📜 Educación Formal
-| Titulación | Institución | Período | Destacado |
-| :--- | :--- | :---: | :--- |
 | **Posgrado de Fundamentos de Big Data** | Universitat Oberta de Catalunya (UOC) | 2025 - 2026 | 🌟 **Matrícula de Honor** |
 | **Grado en Sociología** | Universitat Autònoma de Barcelona (UAB) | 2016 - 2020 | Especial interés en Estadística aplicada (R) |
 | **CFGS Administración y Finanzas** | Institut Abat Oliba (Ripoll) | 2013 - 2016 | Fundamentos de gestión empresarial |
