@@ -151,14 +151,73 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
   <br> 
   <details> 
     <summary> 
-      <a href="https://www.linkedin.com/learning/paths/fundamentos-profesionales-del-analisis-de-datos-por-microsoft-y-linkedin"><b>Itinerario Fundamentos Profesionales del Análisis de Datos (Microsoft &amp; LinkedIn)</b></a> [<img src="./assets/certificado-icon.png" width="20">]()
-    </summary> <br> 
-    • <a href="[suspicious link removed]"><i>Introducción a las habilidades profesionales en análisis de datos</i></a> [<img src="./assets/certificado-icon.png" width="20">](./certificados/RUTA\_CERTIFICADO\_1.pdf)<br> 
-    • <a href="https://www.linkedin.com/learning/aprende-analisis-de-datos-fundamentos"><i>Aprende análisis de datos: fundamentos</i></a> [<img src="./assets/certificado-icon.png" width="20">](./certificados/RUTA\_CERTIFICADO\_2.pdf)<br> 
-    • <a href="https://www.linkedin.com/learning/aprende-analisis-de-datos-ampliacion-y-aplicacion-de-los-conocimientos-basicos"><i>Aprende análisis de datos: Ampliación y aplicación de los conocimientos básicos</i></a> [<img src="./assets/certificado-icon.png" width="20">](./certificados/RUTA\_CERTIFICADO\_3.pdf)<br> 
-    • <a href="https://www.linkedin.com/learning/aprende-data-science-conceptos-basicos"><i>Aprende Data Science: Conceptos básicos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_4.pdf)<br> 
-    • <a href="https://www.linkedin.com/learning/aprende-data-science-cuenta-historias-con-los-datos"><i>Aprende Data Science: Cuenta historias con los datos</i></a> [<img src="./assets/certificado-icon.png" width="20">](./certificados/RUTA\_CERTIFICADO\_5.pdf)<br> 
+      <a href=https://www.linkedin.com/learning/paths/fundamentos-profesionales-del-analisis-de-datos-por-microsoft-y-linkedin><b>Itinerario "Fundamentos Profesionales del Análisis de Datos, por Microsoft y LinkedIn"</b>
+      </a> 
+      <a href="./certificados/LinkedIn/11.0_Fundamentos%20profesionales%20del%20analisis%20de%20datos%20por%20Microsoft%20y%20LinkedIn.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+      </a>
+    </summary> 
+<br> 
+    • <a href="https://www.linkedin.com/learning/introduccion-a-las-habilidades-profesionales-en-analisis-de-datos"><i>Introducción a las habilidades profesionales en análisis de datos</i></a> 
+    <a href="./certificados/LinkedIn/11.1_Introduccion%20a%20las%20habilidades%20profesionales%20en%20analisis%20de%20datos.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+    </a>
+<br> 
+    • <a href="https://www.linkedin.com/learning/aprende-analisis-de-datos-fundamentos"><i>Aprende análisis de datos: fundamentos</i></a> 
+        <a href="./certificados/LinkedIn/11.2_Aprende%20analisis%20de%20datos:%20Fundamentos.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+    </a>
+<br>  
+    • <a href="https://www.linkedin.com/learning/aprende-analisis-de-datos-ampliacion-y-aplicacion-de-los-conocimientos-basicos"><i>Aprende análisis de datos: Ampliación y aplicación de los conocimientos básicos</i></a> 
+        <a href="./certificados/LinkedIn/11.3_Aprende%20analisis%20de%20datos:%20Ampliacion%20y%20aplicacion%20de%20los%20conocimientos%20basicos.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+    </a>    
+<br> 
+    • <a href="https://www.linkedin.com/learning/aprende-data-science-conceptos-basicos"><i>Aprende Data Science: Conceptos básicos</i></a> 
+        <a href="./certificados/LinkedIn/11.4_Aprende%20data%20science:%20Conceptos%20basicos.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+    </a>    
+<br> 
+    • <a href="https://www.linkedin.com/learning/aprende-data-science-cuenta-historias-con-los-datos"><i>Aprende Data Science: Cuenta historias con los datos</i></a> 
+        <a href="./certificados/LinkedIn/11.5_Aprende%20data%20science:%20Cuenta%20historias%20con%20los%20datos.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+    </a>    
+    
   </details> 
+
+
+
+  <details> 
+    <summary> 
+      <a href="https://www.linkedin.com/learning/paths/fundamentos-profesionales-de-analisis-empresarial-por-microsoft-y-linkedin"><b>Itinerario "Fundamentos Profesionales de Análisis Empresarial, por Microsoft y LinkedIn"</b>
+      </a> 
+      <a href="./certificados/LinkedIn/12.0.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+      </a>
+    </summary> 
+<br> 
+    • <a href="https://www.linkedin.com/learning/fundamentos-del-analisis-empresarial"><i>Fundamentos del análisis empresarial</i></a> 
+    <a href="./certificados/LinkedIn/12.1_.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+    </a>
+<br> 
+    • <a href="https://www.linkedin.com/learning/aprende-data-science-conceptos-basicos"><i>Aprende data science: Conceptos básicos</i></a> 
+        <a href="./certificados/LinkedIn/12.2_.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+    </a>
+<br>  
+    • <a href="https://www.linkedin.com/learning/gestion-de-datos-con-microsoft-365"><i>Gestión de datos con Microsoft 365</i></a> 
+        <a href="./certificados/LinkedIn/12.3_.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+    </a>    
+<br> 
+    • <a href="https://www.linkedin.com/learning/gestion-de-proyectos-con-microsoft-365"><i>Gestión de proyectos con Microsoft 365</i></a> 
+        <a href="./certificados/LinkedIn/12.4_.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+    </a>       
+  </details> 
+</details>
+  
+
+
+
+
+
+
+
+
+
+
+  
 </details>
   
 
