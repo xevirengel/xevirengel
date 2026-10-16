@@ -205,18 +205,10 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
         <a href="./certificados/LinkedIn/12.4_Gestion%20de%20proyectos%20con%20Microsoft%20365.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
     </a>       
   </details> 
-</details>
   
-
-
-
-
-
-
-
-
-
-
+• <a href="https://www.linkedin.com/learning/fundamentos-de-la-carrera-de-administracion-de-sistemas-de-microsoft-y-linkedin"><b>Fundamentos de la carrera de administración de sistemas de Microsoft y LinkedIn</b></a> <a href="./certificados/LinkedIn/21_Fundamentos%20de%20la%20carrera%20de%20administracion%20de%20sistemas%20de%20Microsoft%20y%20LinkedIn.pdf"><img src="./assets/certificado-icon.png" height="25" align="texttop"></a><br><br> 
+• <a href="https://www.linkedin.com/learning/desafio-de-programacion-python-para-ciencia-de-datos"><b>Desafío de programación: Python para ciencia de datos</b></a> <a href="./certificados/LinkedIn/22_Desafio%20de%20programacion%20Python%20para%20ciencia%20de%20datos.pdf"><img src="./assets/certificado-icon.png" height="25" align="texttop"></a><br><br> 
+• <a href="https://www.linkedin.com/learning/inteligencia-artificial-generativa-la-evolucion-de-la-busqueda-inteligente-en-internet"><b>Inteligencia artificial generativa: la evolucion de la busqueda inteligente en Internet</b></a> <a href="./certificados/LinkedIn/23_Inteligencia%20artificial%20generativa%20la%20evolucion%20de%20la%20busqueda%20inteligente%20en%20Internet.pdf"><img src="./assets/certificado-icon.png" height="25" align="texttop"></a><br>
   
 </details>
   
