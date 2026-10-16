@@ -129,6 +129,20 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
     <b> Cursos MoureDev </b>
   </summary>  
   <br>
+
+| Curso | Enlace | GitHub | Youtube |
+| :--- | :---: | :---: | :---: |
+| hola | [🌐]() | []() | [📺]() |
+| hola | [🌐]() | []() | [📺]() |
+| hola | [🌐]() | []() | [📺]() |
+| hola | [🌐]() | []() | [📺]() |
+| hola | [🌐]() | []() | [📺]() |
+| hola | [🌐]() | []() | [📺]() |
+| hola | [🌐]() | []() | [📺]() |
+
+
+
+  
     - 🐍 **Python**: *Python desde cero* y *Python intermedio*.
     - 🌐 **Backend**: *Backend con Python y FastAPI*.
     - 🛢️ **Bases de Datos**: *SQL y bases de datos desde cero* (MySQL Workbench).
@@ -206,6 +220,8 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 </details>
 
 ---
+
+
 
 <p align="center">
   
