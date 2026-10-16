@@ -185,24 +185,24 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
     <summary> 
       <a href="https://www.linkedin.com/learning/paths/fundamentos-profesionales-de-analisis-empresarial-por-microsoft-y-linkedin"><b>Itinerario "Fundamentos Profesionales de Análisis Empresarial, por Microsoft y LinkedIn"</b>
       </a> 
-      <a href="./certificados/LinkedIn/12.0.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+      <a href="./certificados/LinkedIn/12.0_Fundamentos%20profesionales%20de%20analisis%20empresarial%20por%20Microsoft%20y%20LinkedIn.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
       </a>
     </summary> 
 <br> 
     • <a href="https://www.linkedin.com/learning/fundamentos-del-analisis-empresarial"><i>Fundamentos del análisis empresarial</i></a> 
-    <a href="./certificados/LinkedIn/12.1_.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+    <a href="./certificados/LinkedIn/12.1_Fundamentos%20del%20analisis%20empresarial.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
     </a>
 <br> 
     • <a href="https://www.linkedin.com/learning/aprende-data-science-conceptos-basicos"><i>Aprende data science: Conceptos básicos</i></a> 
-        <a href="./certificados/LinkedIn/12.2_.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+        <a href="./certificados/LinkedIn/12.2_Aprende%20data%20science:%20Conceptos%20basicos.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
     </a>
 <br>  
     • <a href="https://www.linkedin.com/learning/gestion-de-datos-con-microsoft-365"><i>Gestión de datos con Microsoft 365</i></a> 
-        <a href="./certificados/LinkedIn/12.3_.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+        <a href="./certificados/LinkedIn/12.3_Gestion%20de%20datos%20con%20Microsoft%20365.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
     </a>    
 <br> 
     • <a href="https://www.linkedin.com/learning/gestion-de-proyectos-con-microsoft-365"><i>Gestión de proyectos con Microsoft 365</i></a> 
-        <a href="./certificados/LinkedIn/12.4_.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
+        <a href="./certificados/LinkedIn/12.4_Gestion%20de%20proyectos%20con%20Microsoft%20365.pdf"> <img src="./assets/certificado-icon.png" height="25" align="texttop">
     </a>       
   </details> 
 </details>
