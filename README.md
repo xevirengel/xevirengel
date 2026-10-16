@@ -143,7 +143,7 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 
 | Curso | Parte 1 | Parte 2 | Parte 3 | Certificado
 | :--- | :---: | :---: | :---: | :---: |
-| *Inteligencia Artificial: Jornadas Desarrollo con IA: de 0 a Producción.* | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=uRzoVP63RiI) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=V-eiE0M-mWM) |[<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=0DhghJpWwVQ) | [<img src="./assets/certificado-icon.png" width="26">](./certificados/MoureDev/10\_Desarrollo%20con%20IA:%20de%200%20a%20Producción.pdf) |
+| *Desarrollo con IA: de 0 a Producción.* | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=uRzoVP63RiI) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=V-eiE0M-mWM) |[<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=0DhghJpWwVQ) | [<img src="./assets/certificado-icon.png" width="26">](./certificados/MoureDev/10\_Desarrollo%20con%20IA:%20de%200%20a%20Producción.pdf) |
 
 </details>
 
