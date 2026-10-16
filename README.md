@@ -110,7 +110,7 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 
 <details>
   <summary>
-    <b> previa </b>
+    <b> Formación previa </b>
   </summary>  
   <br>
     Què tal?
@@ -118,7 +118,7 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 
 <details>
   <summary>
-    <b> big data </b>
+    <b> Formación Big Data </b>
   </summary>  
   <br>
     Què tal?
@@ -126,7 +126,7 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 
 <details>
   <summary>
-    <b> mouredev </b>
+    <b> Cursos MoureDev </b>
   </summary>  
   <br>
     - 🐍 **Python**: *Python desde cero* y *Python intermedio*.
@@ -140,7 +140,7 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 
 <details>
   <summary>
-    <b> linkedin </b>
+    <b> Cursos LinkedIn </b>
   </summary>  
   <br>
     **Itinerario Fundamentos Profesionales del Análisis de Datos (Microsoft &amp; LinkedIn):** <br>
