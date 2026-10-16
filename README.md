@@ -84,7 +84,7 @@ Como yo lo veo, y simplificándolo al máximo, tengo dos opciones: tirar por la 
       <td width="33%" align="center"> 
         <h3> La Investigación 🕵🏻‍♂️</h3> 
         <hr>
-        <p> Me permite seguir investigando y descubriendo el mundo que me rodea. <br><br> </p> 
+        <p> Me permitiría seguir investigando <br> y descubriendo. <br><br> </p> 
       </td> 
       <td width="33%" align="center"> 
         <h3> El Orden 🗃️ </h3> 
