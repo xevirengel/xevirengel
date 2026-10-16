@@ -147,27 +147,19 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 
 </details>
 
-<details>
-  <summary>
-    <b> Cursos LinkedIn </b>
-  </summary>  
-  <br>
-    **Itinerario Fundamentos Profesionales del Análisis de Datos (Microsoft &amp; LinkedIn):** <br>
-        *Introducción a las habilidades profesionales en análisis de datos*
-      *Aprende análisis de datos: fundamentos*
-      *Aprende análisis de datos: Ampliación y aplicación de conocimientos básicos*
-      *Aprende Data Science: Conceptos básicos*
-      *Aprende Data Science: Cuenta historias con los datos*
-      *Desafío de programación: Python para ciencia de datos*
-  
-- **Itinerario Fundamentos Profesionales de Análisis Empresarial**:
-  - *Fundamentos del análisis empresarial*
-  - *Gestión de datos y proyectos con Microsoft 365*
-    
-- **Sistemas e IA**:
-  - *Fundamentos de la carrera de administración de sistemas*
-  - *Inteligencia artificial generativa: evolución de la búsqueda inteligente en Internet*
+<details> <summary><b>Cursos LinkedIn</b></summary> 
+  <br> 
+  <details> 
+    <summary> <a href="https://www.linkedin.com/learning/paths/fundamentos-profesionales-del-analisis-de-datos-por-microsoft-y-linkedin"><b>Itinerario Fundamentos Profesionales del Análisis de Datos (Microsoft &amp; LinkedIn)</b></a>
+    </summary> <br /> • 
+    <a href="[suspicious link removed]"><i>Introducción a las habilidades profesionales en análisis de datos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_1.pdf)<br /> • 
+    <a href="https://www.linkedin.com/learning/aprende-analisis-de-datos-fundamentos"><i>Aprende análisis de datos: fundamentos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_2.pdf)<br /> • 
+    <a href="https://www.linkedin.com/learning/aprende-analisis-de-datos-ampliacion-y-aplicacion-de-los-conocimientos-basicos"><i>Aprende análisis de datos: Ampliación y aplicación de los conocimientos básicos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_3.pdf)<br /> • 
+    <a href="https://www.linkedin.com/learning/aprende-data-science-conceptos-basicos"><i>Aprende Data Science: Conceptos básicos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_4.pdf)<br /> • 
+    <a href="https://www.linkedin.com/learning/aprende-data-science-cuenta-historias-con-los-datos"><i>Aprende Data Science: Cuenta historias con los datos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_5.pdf)<br /> 
+  </details> 
 </details>
+  
 
 ---
 
@@ -178,20 +170,7 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 | **Grado en Sociología** | Universitat Autònoma de Barcelona (UAB) | 2016 - 2020 | Especial interés en Estadística aplicada (R) |
 | **CFGS Administración y Finanzas** | Institut Abat Oliba (Ripoll) | 2013 - 2016 | Fundamentos de gestión empresarial |
 
-<details>
-<summary>📚 <b>Cursos de Especialización Técnica (Mouredev Pro &amp; Big School)</b> <i>(Haz clic para desplegar)</i></summary>
 
-<br />
-
-- 🐍 **Python**: *Python desde cero* y *Python intermedio*.
-- 🌐 **Backend**: *Backend con Python y FastAPI*.
-- 🛢️ **Bases de Datos**: *SQL y bases de datos desde cero* (MySQL Workbench).
-- 💻 **Terminal**: *Bash/Shell, terminal y línea de comandos desde cero* (Warp).
-- 🐙 **Control de Versiones**: *Git y GitHub desde cero*.
-- 🤖 **Inteligencia Artificial**: Jornadas *Desarrollo con IA: de 0 a Producción*.
-- 🧩 **Lógica**: *Lógica de Programación*.
-
-</details>
 
 <details>
 <summary>🏆 <b>Certificaciones de Análisis de Datos &amp; Business (Microsoft &amp; LinkedIn)</b> <i>(Haz clic para desplegar)</i></summary>
@@ -215,6 +194,22 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 </details>
 
 ---
+
+<details> 
+  <summary>
+    <b>Cursos LinkedIn</b>
+  </summary> <br> 
+  <details> 
+    <summary> 
+      <a href="https://www.linkedin.com/learning/paths/fundamentos-profesionales-del-analisis-de-datos-por-microsoft-y-linkedin"><b>Itinerario Fundamentos Profesionales del Análisis de Datos (Microsoft &amp; LinkedIn)</b></a> 
+    </summary> <br> 
+    • <a href="[suspicious link removed]"><i>Introducción a las habilidades profesionales en análisis de datos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_1.pdf)<br> 
+    • <a href="https://www.linkedin.com/learning/aprende-analisis-de-datos-fundamentos"><i>Aprende análisis de datos: fundamentos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_2.pdf)<br> 
+    • <a href="https://www.linkedin.com/learning/aprende-analisis-de-datos-ampliacion-y-aplicacion-de-los-conocimientos-basicos"><i>Aprende análisis de datos: Ampliación y aplicación de los conocimientos básicos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_3.pdf)<br> 
+    • <a href="https://www.linkedin.com/learning/aprende-data-science-conceptos-basicos"><i>Aprende Data Science: Conceptos básicos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_4.pdf)<br> 
+    • <a href="https://www.linkedin.com/learning/aprende-data-science-cuenta-historias-con-los-datos"><i>Aprende Data Science: Cuenta historias con los datos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_5.pdf)<br> 
+  </details> 
+</details>
 
 
 
