@@ -211,28 +211,3 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 • <a href="https://www.linkedin.com/learning/inteligencia-artificial-generativa-la-evolucion-de-la-busqueda-inteligente-en-internet"><b>Inteligencia artificial generativa: la evolucion de la busqueda inteligente en Internet</b></a> <a href="./certificados/LinkedIn/23_Inteligencia%20artificial%20generativa%20la%20evolucion%20de%20la%20busqueda%20inteligente%20en%20Internet.pdf"><img src="./assets/certificado-icon.png" height="25" align="texttop"></a><br>
   
 </details>
-  
-
----
-
-<p align="right"><a href="#top">⬆ Volver al principio</a></p>
-
-
----
-
-<p align="center">
-  
-</p>
-
----
-
-<div align="center">
-
-💬 *¿Te interesa mi perfil o quieres colaborar en un proyecto de datos? ¡No dudes en contactarme!*
-
-[![](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&amp;logo=linkedin)](https://linkedin.com/in/xavier-rengel-b41b41189)
-[![](https://img.shields.io/badge/Email-Enviar_correo-D14836?style=for-the-badge&amp;logo=gmail)](mailto:xevirengel@gmail.com)
-
-</div>
-
-```
