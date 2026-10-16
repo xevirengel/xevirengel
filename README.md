@@ -130,25 +130,21 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
   </summary>  
   <br>
 
-| Curso | Enlace | GitHub | Youtube |
+| **Curso** | Enlace | GitHub | Youtube |
 | :--- | :---: | :---: | :---: |
-| Python desde cero | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/python-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/Hello-Python/tree/main/Basic) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=Kp4Mvapo5kc) |
-| Python intermedio | [<img src="./assets/web-icon.png" width="20">]() | [<img src="./assets/github-icon-v2.png" width="20">]() | [<img src="./assets/youtube-icon.png" width="20">]() |
-| Backend con Python y FastAPI | [<img src="./assets/web-icon.png" width="20">]() | [<img src="./assets/github-icon-v2.png" width="20">]() | [<img src="./assets/youtube-icon.png" width="20">]() |
-| SQL y bases de datos desde cero | [<img src="./assets/web-icon.png" width="20">]() | [<img src="./assets/github-icon-v2.png" width="20">]() | [<img src="./assets/youtube-icon.png" width="20">]() |
-| Bash/Shell, terminal y línea de comandos desde cero | [<img src="./assets/web-icon.png" width="20">]() | [<img src="./assets/github-icon-v2.png" width="20">]() | [<img src="./assets/youtube-icon.png" width="20">]() |
-| Git y GitHub desde cero | [<img src="./assets/web-icon.png" width="20">]() | [<img src="./assets/github-icon-v2.png" width="20">]() | [<img src="./assets/youtube-icon.png" width="20">]() |
+| *Python desde cero.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/python-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/Hello-Python/tree/main/Basic) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=Kp4Mvapo5kc) |
+| *Python intermedio.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/python-intermedio) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/Hello-Python/tree/main/Intermediate) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=TbcEqkabAWU) |
+| *Backend con Python y FastAPI.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/backend-python) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/Hello-Python/tree/main/Backend) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=_y9qQZXE24A) |
+| *SQL y bases de datos desde cero.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/sql-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/hello-sql) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=OuJerKzV5T0) |
+| *Bash/Shell, terminal y línea de comandos desde cero.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/bash-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/hello-bash-shell) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=ABgLEKFhlZE) |
+| *Git y GitHub desde cero.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/git-github-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/hello-git) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=3GymExBkKjE) |
 
+<br>
 
+| Curso | Parte 1 | Parte 2 | Parte 3 |
+| :--- | :---: | :---: | :---: |
+| *Inteligencia Artificial: Jornadas Desarrollo con IA: de 0 a Producción.* | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=uRzoVP63RiI) |[<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=V-eiE0M-mW) |[<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=0DhghJpWwVQ) |
 
-  
-    - 🐍 **Python**: *Python desde cero* y *Python intermedio*.
-    - 🌐 **Backend**: *Backend con Python y FastAPI*.
-    - 🛢️ **Bases de Datos**: *SQL y bases de datos desde cero* (MySQL Workbench).
-    - 💻 **Terminal**: *Bash/Shell, terminal y línea de comandos desde cero* (Warp).
-    - 🐙 **Control de Versiones**: *Git y GitHub desde cero*.
-    - 🤖 **Inteligencia Artificial**: Jornadas *Desarrollo con IA: de 0 a Producción*.
-    - 🧩 **Lógica**: *Lógica de Programación*.
 </details>
 
 <details>
