@@ -110,10 +110,11 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 
 <details>
   <summary>
-    <b> Formación previa </b>
+    <b> Formación Previa </b>
   </summary>  
   <br>
-    Què tal?
+    Admin
+    Socio
 </details>
 
 <details>
@@ -121,7 +122,10 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
     <b> Formación Big Data </b>
   </summary>  
   <br>
-    Què tal?
+    [Curs UOC](https://www.uoc.edu/es/estudios/formacion-continua/curso-posgrado-fundamentos-big-data)
+      notes
+      titol
+      exemple
 </details>
 
 <details>
