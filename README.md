@@ -218,33 +218,6 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 <p align="right"><a href="#top">⬆ Volver al principio</a></p>
 
 
-| **Posgrado de Fundamentos de Big Data** | Universitat Oberta de Catalunya (UOC) | 2025 - 2026 | 🌟 **Matrícula de Honor** |
-| **Grado en Sociología** | Universitat Autònoma de Barcelona (UAB) | 2016 - 2020 | Especial interés en Estadística aplicada (R) |
-| **CFGS Administración y Finanzas** | Institut Abat Oliba (Ripoll) | 2013 - 2016 | Fundamentos de gestión empresarial |
-
-
-
-<details>
-<summary>🏆 <b>Certificaciones de Análisis de Datos &amp; Business (Microsoft &amp; LinkedIn)</b> <i>(Haz clic para desplegar)</i></summary>
-
-<br />
-
-- **Itinerario Fundamentos Profesionales del Análisis de Datos (Microsoft &amp; LinkedIn)**:
-  - *Introducción a las habilidades profesionales en análisis de datos*
-  - *Aprende análisis de datos: fundamentos*
-  - *Aprende análisis de datos: Ampliación y aplicación de conocimientos básicos*
-  - *Aprende Data Science: Conceptos básicos*
-  - *Aprende Data Science: Cuenta historias con los datos*
-  - *Desafío de programación: Python para ciencia de datos*
-- **Itinerario Fundamentos Profesionales de Análisis Empresarial**:
-  - *Fundamentos del análisis empresarial*
-  - *Gestión de datos y proyectos con Microsoft 365*
-- **Sistemas e IA**:
-  - *Fundamentos de la carrera de administración de sistemas*
-  - *Inteligencia artificial generativa: evolución de la búsqueda inteligente en Internet*
-
-</details>
-
 ---
 
 <p align="center">
