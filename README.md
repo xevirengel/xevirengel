@@ -143,7 +143,7 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 
 | Curso | Parte 1 | Parte 2 | Parte 3 |
 | :--- | :---: | :---: | :---: |
-| *Inteligencia Artificial: Jornadas Desarrollo con IA: de 0 a Producción.* | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=uRzoVP63RiI) |[<img src="./assets/youtube-icon.png" width="20">]([https://www.youtube.com/watch?v=V-eiE0M-mW](https://www.youtube.com/watch?v=V-eiE0M-mWM)) |[<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=0DhghJpWwVQ) |
+| *Inteligencia Artificial: Jornadas Desarrollo con IA: de 0 a Producción.* | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=uRzoVP63RiI) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=V-eiE0M-mWM)) |[<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=0DhghJpWwVQ) |
 
 </details>
 
