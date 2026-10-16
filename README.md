@@ -132,13 +132,7 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 
 | Curso | Enlace | GitHub | Youtube |
 | :--- | :---: | :---: | :---: |
-| hola | [🌐]() | []() | [📺]() |
-| hola | [🌐]() | []() | [📺]() |
-| hola | [🌐]() | []() | [📺]() |
-| hola | [🌐]() | []() | [📺]() |
-| hola | [🌐]() | []() | [📺]() |
-| hola | [🌐]() | []() | [📺]() |
-| hola | [🌐]() | []() | [📺]() |
+| hola | [<img src="./assets/web-icon.png" width="20">]() | [<img src="./assets/github-icon-v2.png" width="20">]() | [<img src="./assets/youtube-icon.png" width="20">]() |
 
 
 
