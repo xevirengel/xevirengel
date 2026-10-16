@@ -132,7 +132,12 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
 
 | Curso | Enlace | GitHub | Youtube |
 | :--- | :---: | :---: | :---: |
-| hola | [<img src="./assets/web-icon.png" width="20">]() | [<img src="./assets/github-icon-v2.png" width="20">]() | [<img src="./assets/youtube-icon.png" width="20">]() |
+| Python desde cero | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/python-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/Hello-Python/tree/main/Basic) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=Kp4Mvapo5kc) |
+| Python intermedio | [<img src="./assets/web-icon.png" width="20">]() | [<img src="./assets/github-icon-v2.png" width="20">]() | [<img src="./assets/youtube-icon.png" width="20">]() |
+| Backend con Python y FastAPI | [<img src="./assets/web-icon.png" width="20">]() | [<img src="./assets/github-icon-v2.png" width="20">]() | [<img src="./assets/youtube-icon.png" width="20">]() |
+| SQL y bases de datos desde cero | [<img src="./assets/web-icon.png" width="20">]() | [<img src="./assets/github-icon-v2.png" width="20">]() | [<img src="./assets/youtube-icon.png" width="20">]() |
+| Bash/Shell, terminal y línea de comandos desde cero | [<img src="./assets/web-icon.png" width="20">]() | [<img src="./assets/github-icon-v2.png" width="20">]() | [<img src="./assets/youtube-icon.png" width="20">]() |
+| Git y GitHub desde cero | [<img src="./assets/web-icon.png" width="20">]() | [<img src="./assets/github-icon-v2.png" width="20">]() | [<img src="./assets/youtube-icon.png" width="20">]() |
 
 
 
