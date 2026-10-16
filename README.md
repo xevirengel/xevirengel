@@ -130,20 +130,20 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
   </summary>  
   <br>
 
-| **Curso** | Enlace | GitHub | Youtube |
-| :--- | :---: | :---: | :---: |
-| *Python desde cero.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/python-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/Hello-Python/tree/main/Basic) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=Kp4Mvapo5kc) |
-| *Python intermedio.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/python-intermedio) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/Hello-Python/tree/main/Intermediate) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=TbcEqkabAWU) |
-| *Backend con Python y FastAPI.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/backend-python) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/Hello-Python/tree/main/Backend) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=_y9qQZXE24A) |
-| *SQL y bases de datos desde cero.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/sql-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/hello-sql) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=OuJerKzV5T0) |
-| *Bash/Shell, terminal y línea de comandos desde cero.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/bash-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/hello-bash-shell) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=ABgLEKFhlZE) |
-| *Git y GitHub desde cero.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/git-github-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/hello-git) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=3GymExBkKjE) |
+| **Curso** | Enlace | GitHub | Youtube | Certificado |
+| :--- | :---: | :---: | :---: | :---: |
+| *Python desde cero.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/python-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/Hello-Python/tree/main/Basic) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=Kp4Mvapo5kc) | []() |
+| *Python intermedio.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/python-intermedio) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/Hello-Python/tree/main/Intermediate) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=TbcEqkabAWU) | []() |
+| *Backend con Python y FastAPI.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/backend-python) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/Hello-Python/tree/main/Backend) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=_y9qQZXE24A) | []() |
+| *SQL y bases de datos desde cero.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/sql-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/hello-sql) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=OuJerKzV5T0) | []() |
+| *Bash/Shell, terminal y línea de comandos desde cero.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/bash-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/hello-bash-shell) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=ABgLEKFhlZE) | []() |
+| *Git y GitHub desde cero.* | [<img src="./assets/web-icon.png" width="20">](https://mouredev.pro/cursos/git-github-desde-cero) | [<img src="./assets/github-icon-v2.png" width="20">](https://github.com/mouredev/hello-git) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=3GymExBkKjE) | []() |
 
 <br>
 
-| Curso | Parte 1 | Parte 2 | Parte 3 |
-| :--- | :---: | :---: | :---: |
-| *Inteligencia Artificial: Jornadas Desarrollo con IA: de 0 a Producción.* | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=uRzoVP63RiI) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=V-eiE0M-mWM)) |[<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=0DhghJpWwVQ) |
+| Curso | Parte 1 | Parte 2 | Parte 3 | Certificado
+| :--- | :---: | :---: | :---: | :---: |
+| *Inteligencia Artificial: Jornadas Desarrollo con IA: de 0 a Producción.* | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=uRzoVP63RiI) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=V-eiE0M-mWM) |[<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=0DhghJpWwVQ) |
 
 </details>
 
