@@ -129,7 +129,13 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
     <b> mouredev </b>
   </summary>  
   <br>
-    Què tal?
+    - 🐍 **Python**: *Python desde cero* y *Python intermedio*.
+    - 🌐 **Backend**: *Backend con Python y FastAPI*.
+    - 🛢️ **Bases de Datos**: *SQL y bases de datos desde cero* (MySQL Workbench).
+    - 💻 **Terminal**: *Bash/Shell, terminal y línea de comandos desde cero* (Warp).
+    - 🐙 **Control de Versiones**: *Git y GitHub desde cero*.
+    - 🤖 **Inteligencia Artificial**: Jornadas *Desarrollo con IA: de 0 a Producción*.
+    - 🧩 **Lógica**: *Lógica de Programación*.
 </details>
 
 <details>
@@ -137,7 +143,21 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
     <b> linkedin </b>
   </summary>  
   <br>
-    Què tal?
+    **Itinerario Fundamentos Profesionales del Análisis de Datos (Microsoft &amp; LinkedIn):** <br>
+        *Introducción a las habilidades profesionales en análisis de datos*
+      *Aprende análisis de datos: fundamentos*
+      *Aprende análisis de datos: Ampliación y aplicación de conocimientos básicos*
+      *Aprende Data Science: Conceptos básicos*
+      *Aprende Data Science: Cuenta historias con los datos*
+      *Desafío de programación: Python para ciencia de datos*
+  
+- **Itinerario Fundamentos Profesionales de Análisis Empresarial**:
+  - *Fundamentos del análisis empresarial*
+  - *Gestión de datos y proyectos con Microsoft 365*
+    
+- **Sistemas e IA**:
+  - *Fundamentos de la carrera de administración de sistemas*
+  - *Inteligencia artificial generativa: evolución de la búsqueda inteligente en Internet*
 </details>
 
 ---
