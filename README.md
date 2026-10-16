@@ -22,7 +22,7 @@ Si me lo permitís, para estructurar esta presentación voy a recurrir a la clá
 * [📍 Dónde estoy](#donde-estoy)
 * [🚀 A dónde quiero ir](#a-donde-quiero-ir)
 
-Y como este repositorio tambien es un complemento a mi CV, para aquellos que quieran ir directamente a mi formación (*aunque yo aconsejo leerlo todo*) os dejo aquí el enlace. 
+Y como este repositorio tambien es un complemento a [mi CV](%5BESP%5D%20Xavier%20Rengel%20Rodes.pdf), para aquellos que quieran ir directamente a mi formación (*aunque yo aconsejo leerlo todo*) os dejo aquí el enlace. 
 
 * [🎓 Información detallada de los cursos](#cursos)
 
