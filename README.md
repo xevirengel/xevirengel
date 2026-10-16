@@ -151,12 +151,12 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
   <br> 
   <details> 
     <summary> <a href="https://www.linkedin.com/learning/paths/fundamentos-profesionales-del-analisis-de-datos-por-microsoft-y-linkedin"><b>Itinerario Fundamentos Profesionales del Análisis de Datos (Microsoft &amp; LinkedIn)</b></a>
-    </summary> <br /> • 
-    <a href="[suspicious link removed]"><i>Introducción a las habilidades profesionales en análisis de datos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_1.pdf)<br /> • 
-    <a href="https://www.linkedin.com/learning/aprende-analisis-de-datos-fundamentos"><i>Aprende análisis de datos: fundamentos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_2.pdf)<br /> • 
-    <a href="https://www.linkedin.com/learning/aprende-analisis-de-datos-ampliacion-y-aplicacion-de-los-conocimientos-basicos"><i>Aprende análisis de datos: Ampliación y aplicación de los conocimientos básicos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_3.pdf)<br /> • 
-    <a href="https://www.linkedin.com/learning/aprende-data-science-conceptos-basicos"><i>Aprende Data Science: Conceptos básicos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_4.pdf)<br /> • 
-    <a href="https://www.linkedin.com/learning/aprende-data-science-cuenta-historias-con-los-datos"><i>Aprende Data Science: Cuenta historias con los datos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_5.pdf)<br /> 
+    </summary> <br> 
+    • <a href="[suspicious link removed]"><i>Introducción a las habilidades profesionales en análisis de datos</i></a> [<img src="./assets/certificado-icon.png" width="20">](./certificados/RUTA\_CERTIFICADO\_1.pdf)<br> 
+    • <a href="https://www.linkedin.com/learning/aprende-analisis-de-datos-fundamentos"><i>Aprende análisis de datos: fundamentos</i></a> [<img src="./assets/certificado-icon.png" width="20">](./certificados/RUTA\_CERTIFICADO\_2.pdf)<br> 
+    • <a href="https://www.linkedin.com/learning/aprende-analisis-de-datos-ampliacion-y-aplicacion-de-los-conocimientos-basicos"><i>Aprende análisis de datos: Ampliación y aplicación de los conocimientos básicos</i></a> [<img src="./assets/certificado-icon.png" width="20">](./certificados/RUTA\_CERTIFICADO\_3.pdf)<br> 
+    • <a href="https://www.linkedin.com/learning/aprende-data-science-conceptos-basicos"><i>Aprende Data Science: Conceptos básicos</i></a> [<img src="./assets/certificado-icon.png" width="26">](./certificados/RUTA\_CERTIFICADO\_4.pdf)<br> 
+    • <a href="https://www.linkedin.com/learning/aprende-data-science-cuenta-historias-con-los-datos"><i>Aprende Data Science: Cuenta historias con los datos</i></a> [<img src="./assets/certificado-icon.png" width="20">](./certificados/RUTA\_CERTIFICADO\_5.pdf)<br> 
   </details> 
 </details>
   
