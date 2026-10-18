@@ -119,7 +119,8 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
     <b> Formación Big Data </b>
   </summary>  
   <br>
-    [Curs UOC](https://www.uoc.edu/es/estudios/formacion-continua/curso-posgrado-fundamentos-big-data)
+El <a href="https://www.uoc.edu/es/estudios/formacion-continua/curso-posgrado-fundamentos-big-data">Curso de Posgrado en Fundamentos de Big Data</a> que hice en la UOC cambió mi vida mostrándome hacia dónde quería dirigir mi futuro, y siempre le guardaré un cariño especial.<br>
+Para hablaros de él, os adjunto tres documentos
       notes
       titol
       exemple
