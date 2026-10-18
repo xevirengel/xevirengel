@@ -120,10 +120,10 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
   </summary>  
   <br>
 El <a href="https://www.uoc.edu/es/estudios/formacion-continua/curso-posgrado-fundamentos-big-data">Curso de Posgrado en Fundamentos de Big Data</a> que hice en la UOC cambió mi vida mostrándome hacia dónde quería dirigir mi futuro, y siempre le guardaré un cariño especial.<br>
-Para hablaros de él, os adjunto tres documentos
-      notes
-      titol
-      exemple
+Para hablaros de él, os adjunto mis <a href="./docs/UOC_Notas.pdf">notas</a> ✅ (<i>con las actividades del curso y mis calificaciones</i>), y la <a href="./docs/UOC_Título">credencial oficial</a> <img src="./assets/certificado-icon.png" height="25" align="texttop"> (<i>donde se detallan los resultados de aprendizaje, la equivalencia a ESCO, el nivel EQF y el organismo validador</i>).<br>
+También quería compartir el trabajo de final de curso, pero como fue en grupo, prefiero colgar solo las partes que hice íntegramente yo, como la PLANIFICACIÓN DEL PROYECTO y todo el PROCESO DE ETL (del cual teneis una imagen resumen a continbuacion)
+
+ 
 </details>
 
 <details>
