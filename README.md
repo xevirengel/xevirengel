@@ -110,8 +110,8 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
     <b> Formación Previa </b>
   </summary>  
   <br>
-    Admin
-    Socio
+Os dejo el enlace del <a href=" ">Grado Superior en Administración y Finanzas</a> y el <a href="">título</a>, aunque he visto que han cambiado el plan de estudios. <br><br>
+Y del <a href="">Grado en Sociología</a>, a parte del <a href="">título</a> os comparto <a href="">mis notas</a> para ver las asignaturas y confirmar mi cambio de mentalidad de primer a último año 😂.
 </details>
 
 <details>
