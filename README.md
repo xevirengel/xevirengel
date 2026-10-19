@@ -124,7 +124,7 @@ Para hablaros de él, os adjunto mis <a href="./docs/UOC_Notas.pdf">notas</a> �
 También quería compartir el trabajo de final de curso, pero como fue en grupo, prefiero colgar solo las partes que hice íntegramente yo, como la <a href="./docs/UOC_Annex_1.pdf">planificación del proyecto</a> y el <a href="./docs/UOC_Annex_2.pdf">proceso de ETL</a> paso a paso con código (<i>abajo os dejo un resumen que hice </i>👇🏻).
 <br><br>
 <p align="center"> 
-  <img src="./docs/UOC_ETL_N.jpg" width="600"/>
+  <img src="./docs/UOC_ETL_N.jpg" width="400"/>
 </p>
 
  
