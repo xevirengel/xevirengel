@@ -110,8 +110,8 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
     <b> Formación Previa </b>
   </summary>  
   <br>
-Os dejo el enlace del <a href="https://www.insabatoliba.cat/cicles-formatius-de-grau-superior/administratiu/">Grado Superior en Administración y Finanzas</a> y el <a href="./certificados/Previa/Superior.jpeg">título</a>, aunque he visto que han cambiado el plan de estudios. <br><br>
-Y del <a href="https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/sociologia-1216708258897.html?param1=1228206208249">Grado en Sociología</a>, a parte del <a href="">título</a> os comparto <a href="./docs/TFG_Rengel%20Rodes,%20Xavier.pdf">mi TFG</a> y <a href="">mis notas</a> para ver las asignaturas y confirmar mi cambio de mentalidad de primer a último año 😂.
+Os dejo el enlace del <a href="https://www.insabatoliba.cat/cicles-formatius-de-grau-superior/administratiu/">Grado Superior en Administración y Finanzas</a> y el <a href="./certificados/Previa/Superior.jpeg">título</a><img src="./assets/certificado-icon.png" height="28" align="texttop">, aunque he visto que han cambiado el plan de estudios. <br><br>
+Y del <a href="https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/sociologia-1216708258897.html?param1=1228206208249">Grado en Sociología</a>, a parte del <a href="">título</a><img src="./assets/certificado-icon.png" height="28" align="texttop"> os comparto <a href="./docs/TFG_Rengel%20Rodes,%20Xavier.pdf">mi TFG</a> 📑 y <a href="">mis notas</a> ✅ (<i>para ver las asignaturas y confirmar mi cambio de mentalidad de primer a último año</i> 😂).
 </details>
 
 <details>
