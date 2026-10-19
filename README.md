@@ -120,14 +120,13 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
   </summary>  
   <br>
 El <a href="https://www.uoc.edu/es/estudios/formacion-continua/curso-posgrado-fundamentos-big-data">Curso de Posgrado en Fundamentos de Big Data</a> que hice en la UOC cambió mi vida mostrándome hacia dónde quería dirigir mi futuro, y siempre le guardaré un cariño especial.<br>
-Para hablaros de él, os adjunto mis <a href="./docs/UOC_Notas.pdf">notas</a> ✅, con las actividades del curso y mis calificaciones, y la <a href="./docs/UOC_Título">credencial oficial</a><img src="./assets/certificado-icon.png" height="28" align="texttop">, donde se detallan los resultados de aprendizaje, los créditos ECTS y duración, la equivalencia a ESCO, el nivel EQF y el organismo validador.<br>
+Para hablaros de él, os adjunto mis <a href="./docs/UOC_Notas.pdf">notas</a> ✅, con las actividades del curso y mis calificaciones, y la <a href="./docs/UOC_Título">credencial oficial</a><img src="./assets/certificado-icon.png" height="28" align="texttop"> donde se detallan los resultados de aprendizaje, los créditos ECTS y duración, la equivalencia a ESCO, el nivel EQF y el organismo validador.<br>
 También quería compartir el trabajo de final de curso, pero como fue en grupo, prefiero colgar solo las partes que hice íntegramente yo, como la <a href="./docs/UOC_Annex_1.pdf">planificación del proyecto</a> y el <a href="./docs/UOC_Annex_2.pdf">proceso de ETL</a> paso a paso con código (<i>abajo os dejo un resumen que hice </i>👇🏻).
 <br><br>
 <p align="center"> 
   <img src="./docs/UOC_ETL_N.jpg" width="400"/>
 </p>
-
- 
+  
 </details>
 
 <details>
