@@ -111,8 +111,31 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
   </summary>  
   <br>
 Os dejo el enlace del <a href="https://www.insabatoliba.cat/cicles-formatius-de-grau-superior/administratiu/">Grado Superior en Administración y Finanzas</a> y el <a href="./certificados/Previa/Superior.jpeg">título</a><img src="./assets/certificado-icon.png" height="28" align="texttop">, aunque he visto que han cambiado el plan de estudios. <br><br>
-Y del <a href="https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/sociologia-1216708258897.html?param1=1228206208249">Grado en Sociología</a>, a parte del <a href="./certificados/Previa/Títol_Socio.jpeg">título</a><img src="./assets/certificado-icon.png" height="28" align="texttop"> os comparto <a href="./docs/TFG_Rengel%20Rodes,%20Xavier.pdf">mi TFG</a> 📑 y <a href="./docs/UAB_Notes.pdf">mis notas</a> ✅ (<i>para ver las asignaturas y confirmar mi cambio de mentalidad de primer a último año</i> 😂).
+Y del <a href="https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/sociologia-1216708258897.html?param1=1228206208249">Grado en Sociología</a>, a parte del <a href="./certificados/Previa/Títol_Socio.jpeg">título</a><img src="./assets/certificado-icon.png" height="28" align="texttop"> os comparto <a href="./docs/TFG_Rengel%20Rodes,%20Xavier.pdf">mi TFG</a> 📑 y <a href="./docs/UAB_Notes.pdf">mis notas</a> ✅ (<i>para ver las asignaturas y confirmar mi cambio de mentalidad de primer a último año</i> 😂).<br><br>
+También me gustaría aprovechar y ponerme un poco más técnico y enseñaros algun ejemplo de los trabajos que hice durante el grado. En la asignatura "<b>Anàlisi Multivariable de Dades</b>" de tercero tubimos que seleccionar un tema y realizar dos investigación (una por semestre) utilizando ciertos <b>modelos estadísticos en R</b>. Como fueron trabajos en grupo no voy a subirlos enteros, pero como yo fuí el encargado de la "planificación" y de la parte práctica, voy a adjuntar ambas partes de ambos trabajos. <br><br>
+  
+  <details>
+    <summary>
+      Primer trabajo: "<i>Percepción de la desigualdad de género entre hombres y mujeres de distinta
+ideología política</i>".
+    </summary>
+    <br>
+  <a href="./docs/UAB_Primer_Hipotesis.pdf">Hipótesis de investigación </a>❓ <br>
+  <a href="./docs/UAB_Primer_Codi.pdf">Código y resultados </a><img src="./assets/terminal-icon.png" height="28" align="texttop">  
+  </details>
+  
+  <details>
+  <summary>
+    Segundo trabajo: "<i>Percepción de la desigualdad de género entre hombres y mujeres con distintas
+características sociológicas</i>".
+  </summary>
+  <br>
+  <a href="./docs/UAB_Segon_Hipotesis.pdf">Hipótesis de investigación </a>❓ <br>
+  <a href="./docs/UAB_Segon_Codi.pdf">Código y resultados </a><img src="./assets/terminal-icon.png" height="28" align="texttop"> 
+  </details>
 </details>
+
+---
 
 <details>
   <summary>
@@ -128,6 +151,8 @@ También quería compartir el trabajo de final de curso, pero como fue en grupo,
 </p>
   
 </details>
+
+---
 
 <details>
   <summary>
@@ -151,6 +176,8 @@ También quería compartir el trabajo de final de curso, pero como fue en grupo,
 | *Desarrollo con IA: de 0 a Producción.* | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=uRzoVP63RiI) | [<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=V-eiE0M-mWM) |[<img src="./assets/youtube-icon.png" width="20">](https://www.youtube.com/watch?v=0DhghJpWwVQ) | [<img src="./assets/certificado-icon.png" width="26">](./certificados/MoureDev/10\_Desarrollo%20con%20IA:%20de%200%20a%20Producción.pdf) |
 
 </details>
+
+---
 
 <details> <summary><b>Cursos LinkedIn</b></summary> 
   <br> 
