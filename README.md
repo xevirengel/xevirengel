@@ -121,9 +121,9 @@ Como fueron trabajos en grupo no voy a subirlos enteros, pero como yo fuí el en
 ideología política</i>".
     </summary>
     <br>
-  <a href="./docs/UAB_Primer_Hipotesis.pdf">Hipótesis de investigación </a>❓ <br>
-  <a href="./docs/UAB_Primer_Codi.pdf">Código y resultados </a><img src="./assets/terminal-icon.png" height="28" align="texttop"> <br>
-  <a href="./docs/UAB_Primer_Conclusions.pdf">Conclusiones </a>❗  
+  <a href="./docs/UAB_Primer_Hipotesis.pdf">Hipótesis de investigación </a>❓ (<i>apartado 2.2</i>) <br>
+  <a href="./docs/UAB_Primer_Codi.pdf">Código paso a paso </a><img src="./assets/terminal-icon.png" height="28" align="texttop"> <br>
+  <a href="./docs/UAB_Primer_Conclusions.pdf">Resultados y Conclusiones </a>❗ (<i>apartados 3 y 4</i>)
   </details>
   
   <details>
@@ -132,9 +132,9 @@ ideología política</i>".
 características sociológicas</i>".
   </summary>
   <br>
-  <a href="./docs/UAB_Segon_Hipotesis.pdf">Hipótesis de investigación </a>❓ <br>
-  <a href="./docs/UAB_Segon_Codi.pdf">Código y resultados </a><img src="./assets/terminal-icon.png" height="28" align="texttop"> <br>
-  <a href="./docs/UAB_Segon_Conclusions.pdf">Conclusiones </a>❗
+  <a href="./docs/UAB_Segon_Hipotesis.pdf">Hipótesis de investigación </a>❓ (<i>apartados 2.2 y 2.3</i>)<br>
+  <a href="./docs/UAB_Segon_Codi.pdf">Código paso a paso </a><img src="./assets/terminal-icon.png" height="28" align="texttop"> <br>
+  <a href="./docs/UAB_Segon_Conclusions.pdf">Resultados y Conclusiones </a>❗(<i>no se ve pero es apartado 3</i>) 
   </details>
 </details>
 
