@@ -112,7 +112,7 @@ El siguiente paso sería decidir en qué campo quiero trabajar y especializarme,
   <br>
 Os dejo el enlace del <a href="https://www.insabatoliba.cat/cicles-formatius-de-grau-superior/administratiu/">Grado Superior en Administración y Finanzas</a> y el <a href="./certificados/Previa/Superior.jpeg">título</a><img src="./assets/certificado-icon.png" height="28" align="texttop">, aunque he visto que han cambiado el plan de estudios. <br><br>
 Y del <a href="https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/sociologia-1216708258897.html?param1=1228206208249">Grado en Sociología</a>, a parte del <a href="./certificados/Previa/Títol_Socio.jpeg">título</a><img src="./assets/certificado-icon.png" height="28" align="texttop"> os comparto <a href="./docs/TFG_Rengel%20Rodes,%20Xavier.pdf">mi TFG</a> 📑 y <a href="./docs/UAB_Notes.pdf">mis notas</a> ✅ (<i>para ver las asignaturas y confirmar mi cambio de mentalidad de primer a último año</i> 😂).<br><br>
-También me gustaría aprovechar y ponerme un poco más técnico y enseñaros algún ejemplo de los trabajos que hice durante el grado. En la asignatura "<b>Anàlisi Multivariable de Dades</b>" de tercero tubimos que seleccionar un tema y realizar dos estudios (una por semestre) utilizando ciertos <b>modelos estadísticos en R</b> 📊. <br>
+También me gustaría aprovechar y ponerme un poco más técnico y enseñaros algún ejemplo de los trabajos que hice durante el grado. En la asignatura "<b>Anàlisi Multivariada de Dades</b>" de tercero tuvimos que seleccionar un tema y realizar dos estudios (una por semestre) utilizando ciertos <b>modelos estadísticos en R</b> 📊. <br>
 Como fueron trabajos en grupo no voy a subirlos enteros, pero como yo fui el encargado del diseño y de la parte práctica y los resultados, voy a adjuntar únicamente estas partes. <br><br>
   
   <details>
@@ -249,4 +249,11 @@ También quería compartir el trabajo de final de curso, pero como fue en grupo,
 
 <p align="right"><a href="#top">⬆ Volver al principio</a></p>
 
+<h2>🫡 Despedida (<i>¡por fin!</i>)</h2>
+Muchas gracias si has llegado hasta aquí, sé que me emociono un poco escribiendo a veces, pero espero que haya sido una lectura agradable y no se te haya hecho pesada 😅. No descarto seguir actualizando este repositorio o crear alguno nuevo más adelante jejeje<br><br>
+Ahora que me conoces y sabes quién soy, tienes mis datos de contacto arriba y en el CV, pero te dejo mi teléfono por si quieres ponerte en contacto conmigo 📲 <b>679649762</b>. 
+
+<h2 align="center"> ¡Muchas gracias y hasta la próxima! ☺️ </h2> 
+
+<p align="right"><a href="#top">⬆ Volver al principio</a></p>
 
